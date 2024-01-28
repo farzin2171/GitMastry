@@ -1,2 +1,3 @@
 # GitMastry
-This is a repository to play with git commands
+
+I just wat to add new commit
