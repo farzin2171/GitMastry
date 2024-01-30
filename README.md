@@ -1,3 +1,3 @@
-# GitMastry
+# GitMa
 
-I just wat to add new commit
+I just wat to add 
